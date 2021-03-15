@@ -1,0 +1,5 @@
+C:\Users\318205\Downloads\TestGit\TestGit\bin\Debug\TestGit.exe
+C:\Users\318205\Downloads\TestGit\TestGit\bin\Debug\TestGit.pdb
+C:\Users\318205\Downloads\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+C:\Users\318205\Downloads\TestGit\TestGit\obj\Debug\TestGit.exe
+C:\Users\318205\Downloads\TestGit\TestGit\obj\Debug\TestGit.pdb
